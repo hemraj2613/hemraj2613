@@ -67,7 +67,7 @@ Full Stack Developer | MERN Stack | Flutter | Python | Django | Python with Data
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
